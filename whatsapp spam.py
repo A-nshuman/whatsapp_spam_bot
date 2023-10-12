@@ -7,9 +7,7 @@ i = 0
 time.sleep(5)
 
 while i < int(limit):
-    pt.typewrite(message)
-    # the message is written where -
-    # the cursor belongs      
+    pt.typewrite(message)   
 
     pt.press("enter")
 
