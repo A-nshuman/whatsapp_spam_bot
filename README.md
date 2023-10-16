@@ -1,5 +1,8 @@
 # WhatsApp Spam Bot
 
+![GitHub top language](https://img.shields.io/github/languages/top/A-nshuman/whatsapp_spam_bot)
+![GitHub repo size](https://img.shields.io/github/repo-size/A-nshuman/whatsapp_spam_bot?color=yellow)
+
 A simple Python script that allows you to send multiple messages to a WhatsApp contact or group.
 
 ## Features
